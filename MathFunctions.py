@@ -14,6 +14,7 @@ class MathFunctions:
     def R(self, a: int, b: int) -> int:
         return a % b
     # Hello
+    # Hi
     """
         Generates velocity with provided distance, time and direction
         @distance in meters
